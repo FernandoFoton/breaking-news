@@ -1,5 +1,6 @@
 .container{padding:10px;max-width:680px;margin:0 auto;}
-h1{font-size:1.5em;}
-h4{font-size:1.2em}
-p{font-size:0.85em}
+h1{font-size:1.5em;font-family:'Trebuchet MS';color:#5784bd}
+h4{font-size:1.2em;font-family:'Trebuchet MS';}
+p{font-size:0.85em;font-family:Helvetica,sans-serif;text-align:justify;line-height:33px;}
+.topico{color:#666;line-height:20px}
 img{max-width:100%;height:auto}
